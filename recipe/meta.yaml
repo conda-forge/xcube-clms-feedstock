@@ -24,7 +24,7 @@ requirements:
     - python >={{ python_min }}
     - requests
     - xarray
-    - xcube >=1.8.1
+    - xcube >=1.9.0
     - ipywidgets
     - cryptography
     - fsspec
