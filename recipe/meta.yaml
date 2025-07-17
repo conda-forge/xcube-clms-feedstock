@@ -1,5 +1,5 @@
 {% set name = "xcube-clms" %}
-{% set version = "1.0.0" %}
+{% set version = "1.1.0" %}
 {% set python_min = "3.10" %}
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://github.com/xcube-dev/xcube-clms/archive/v{{ version }}.tar.gz
-  sha256: 1a092a9b8021bc9ea6354125328854402e8c1277267b7048b8c6c409f6e8c667
+  sha256: 9d7b9bca6f8df3952e10535538dd7303cf0542f6059c58edd9a01bdcacc02fc1
 
 build:
   noarch: python
