@@ -29,6 +29,7 @@ requirements:
     - cryptography
     - fsspec
     - zappend
+    - h5netcdf
 
 test:
   imports:
