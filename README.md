@@ -150,6 +150,7 @@ Feedstock Maintainers
 * [@AliceBalfanz](https://github.com/AliceBalfanz/)
 * [@TonioF](https://github.com/TonioF/)
 * [@b-yogesh](https://github.com/b-yogesh/)
+* [@clarasb](https://github.com/clarasb/)
 * [@forman](https://github.com/forman/)
 * [@konstntokas](https://github.com/konstntokas/)
 * [@pont-us](https://github.com/pont-us/)
