@@ -30,6 +30,9 @@ requirements:
     - fsspec
     - zappend
     - h5netcdf
+    - boto3 ==1.37.3
+    - libgdal-netcdf
+    - python-dotenv
 
 test:
   imports:
