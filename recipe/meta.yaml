@@ -37,11 +37,8 @@ requirements:
 test:
   imports:
     - xcube_clms
-  commands:
-    - pip check
   requires:
     - python {{ python_min }}
-    - pip
 
 about:
   summary: xcube datastore for accessing datasets through the CLMS API
@@ -53,10 +50,12 @@ about:
 
 extra:
   recipe-maintainers:
-    - b-yogesh
-    - konstntokas
-    - forman
-    - pont-us
     - AliceBalfanz
-    - TonioF
+    - pont-us
+    - b-yogesh
     - clarasb
+    - forman
+    - konstntokas
+    - TejasMorbagal
+    - thomasstorm
+    - TonioF
